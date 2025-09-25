@@ -1,0 +1,689 @@
+{
+    "Database_System_Partisipasi_Rakyat_Konoha": {
+        "Sumber_Data": {
+            "Dataset Publik": [
+                {
+                    "id_data": "DSPUB-001",
+                    "nama_dataset": "UADFV",
+                    "tahun": 2021,
+                    "keterangan": "Dataset UADFV digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-002",
+                    "nama_dataset": "FaceForensics++",
+                    "tahun": 2020,
+                    "keterangan": "Dataset FaceForensics++ digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-003",
+                    "nama_dataset": "Google Deepfake Detection Challenge",
+                    "tahun": 2021,
+                    "keterangan": "Dataset Google Deepfake Detection Challenge digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-004",
+                    "nama_dataset": "Google Deepfake Detection Challenge",
+                    "tahun": 2020,
+                    "keterangan": "Dataset Google Deepfake Detection Challenge digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-005",
+                    "nama_dataset": "FaceForensics++",
+                    "tahun": 2023,
+                    "keterangan": "Dataset FaceForensics++ digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-006",
+                    "nama_dataset": "Google Deepfake Detection Challenge",
+                    "tahun": 2018,
+                    "keterangan": "Dataset Google Deepfake Detection Challenge digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-007",
+                    "nama_dataset": "Google Deepfake Detection Challenge",
+                    "tahun": 2021,
+                    "keterangan": "Dataset Google Deepfake Detection Challenge digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-008",
+                    "nama_dataset": "Open Images Deepfake Subset",
+                    "tahun": 2022,
+                    "keterangan": "Dataset Open Images Deepfake Subset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-009",
+                    "nama_dataset": "DeepFakeDetection Dataset",
+                    "tahun": 2018,
+                    "keterangan": "Dataset DeepFakeDetection Dataset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-010",
+                    "nama_dataset": "UADFV",
+                    "tahun": 2021,
+                    "keterangan": "Dataset UADFV digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-011",
+                    "nama_dataset": "Open Images Deepfake Subset",
+                    "tahun": 2022,
+                    "keterangan": "Dataset Open Images Deepfake Subset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-012",
+                    "nama_dataset": "Kaggle Deepfake Dataset",
+                    "tahun": 2019,
+                    "keterangan": "Dataset Kaggle Deepfake Dataset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-013",
+                    "nama_dataset": "Open Images Deepfake Subset",
+                    "tahun": 2022,
+                    "keterangan": "Dataset Open Images Deepfake Subset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-014",
+                    "nama_dataset": "FaceForensics++",
+                    "tahun": 2022,
+                    "keterangan": "Dataset FaceForensics++ digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-015",
+                    "nama_dataset": "UADFV",
+                    "tahun": 2018,
+                    "keterangan": "Dataset UADFV digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-016",
+                    "nama_dataset": "Google Deepfake Detection Challenge",
+                    "tahun": 2021,
+                    "keterangan": "Dataset Google Deepfake Detection Challenge digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-017",
+                    "nama_dataset": "Kaggle Deepfake Dataset",
+                    "tahun": 2021,
+                    "keterangan": "Dataset Kaggle Deepfake Dataset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-018",
+                    "nama_dataset": "FaceForensics++",
+                    "tahun": 2018,
+                    "keterangan": "Dataset FaceForensics++ digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-019",
+                    "nama_dataset": "Celeb-DF",
+                    "tahun": 2022,
+                    "keterangan": "Dataset Celeb-DF digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-020",
+                    "nama_dataset": "Open Images Deepfake Subset",
+                    "tahun": 2019,
+                    "keterangan": "Dataset Open Images Deepfake Subset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-021",
+                    "nama_dataset": "WildDeepfake",
+                    "tahun": 2023,
+                    "keterangan": "Dataset WildDeepfake digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-022",
+                    "nama_dataset": "Kaggle Deepfake Dataset",
+                    "tahun": 2019,
+                    "keterangan": "Dataset Kaggle Deepfake Dataset digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-023",
+                    "nama_dataset": "DFDC",
+                    "tahun": 2022,
+                    "keterangan": "Dataset DFDC digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-024",
+                    "nama_dataset": "AI Generated Faces 2022",
+                    "tahun": 2018,
+                    "keterangan": "Dataset AI Generated Faces 2022 digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                },
+                {
+                    "id_data": "DSPUB-025",
+                    "nama_dataset": "Celeb-DF",
+                    "tahun": 2021,
+                    "keterangan": "Dataset Celeb-DF digunakan sebagai contoh pelatihan model AI untuk mendeteksi manipulasi media."
+                }
+            ],
+            "Portal Berita Terverifikasi": [
+                {
+                    "id_data": "PBT-001",
+                    "portal": "Liputan6",
+                    "judul_artikel": "Fakta foto lama yang diedit ulang",
+                    "tanggal": "28/03/2022",
+                    "keterangan": "Artikel dari Liputan6 dengan topik 'Fakta foto lama yang diedit ulang' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-002",
+                    "portal": "Tempo",
+                    "judul_artikel": "Berita klarifikasi video pidato palsu",
+                    "tanggal": "25/03/2023",
+                    "keterangan": "Artikel dari Tempo dengan topik 'Berita klarifikasi video pidato palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-003",
+                    "portal": "Suara",
+                    "judul_artikel": "Artikel edukasi literasi digital",
+                    "tanggal": "17/02/2020",
+                    "keterangan": "Artikel dari Suara dengan topik 'Artikel edukasi literasi digital' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-004",
+                    "portal": "Liputan6",
+                    "judul_artikel": "Fakta foto lama yang diedit ulang",
+                    "tanggal": "4/08/2021",
+                    "keterangan": "Artikel dari Liputan6 dengan topik 'Fakta foto lama yang diedit ulang' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-005",
+                    "portal": "Antara",
+                    "judul_artikel": "Rilis resmi pemerintah tentang video palsu",
+                    "tanggal": "9/07/2022",
+                    "keterangan": "Artikel dari Antara dengan topik 'Rilis resmi pemerintah tentang video palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-006",
+                    "portal": "BBC Indonesia",
+                    "judul_artikel": "Analisis hoaks internasional masuk ke Indonesia",
+                    "tanggal": "25/08/2021",
+                    "keterangan": "Artikel dari BBC Indonesia dengan topik 'Analisis hoaks internasional masuk ke Indonesia' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-007",
+                    "portal": "Merdeka",
+                    "judul_artikel": "Berita hoaks seputar pilkada",
+                    "tanggal": "12/07/2023",
+                    "keterangan": "Artikel dari Merdeka dengan topik 'Berita hoaks seputar pilkada' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-008",
+                    "portal": "Republika",
+                    "judul_artikel": "Klarifikasi video ceramah ustadz",
+                    "tanggal": "14/09/2022",
+                    "keterangan": "Artikel dari Republika dengan topik 'Klarifikasi video ceramah ustadz' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-009",
+                    "portal": "Merdeka",
+                    "judul_artikel": "Berita hoaks seputar pilkada",
+                    "tanggal": "21/01/2020",
+                    "keterangan": "Artikel dari Merdeka dengan topik 'Berita hoaks seputar pilkada' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-010",
+                    "portal": "Suara",
+                    "judul_artikel": "Artikel edukasi literasi digital",
+                    "tanggal": "27/05/2022",
+                    "keterangan": "Artikel dari Suara dengan topik 'Artikel edukasi literasi digital' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-011",
+                    "portal": "Kompas",
+                    "judul_artikel": "Artikel tentang hoaks vaksin di Jakarta",
+                    "tanggal": "15/05/2021",
+                    "keterangan": "Artikel dari Kompas dengan topik 'Artikel tentang hoaks vaksin di Jakarta' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-012",
+                    "portal": "Merdeka",
+                    "judul_artikel": "Berita hoaks seputar pilkada",
+                    "tanggal": "26/04/2022",
+                    "keterangan": "Artikel dari Merdeka dengan topik 'Berita hoaks seputar pilkada' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-013",
+                    "portal": "CNN Indonesia",
+                    "judul_artikel": "Investigasi video kampanye manipulatif",
+                    "tanggal": "9/02/2022",
+                    "keterangan": "Artikel dari CNN Indonesia dengan topik 'Investigasi video kampanye manipulatif' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-014",
+                    "portal": "CNN Indonesia",
+                    "judul_artikel": "Investigasi video kampanye manipulatif",
+                    "tanggal": "8/07/2020",
+                    "keterangan": "Artikel dari CNN Indonesia dengan topik 'Investigasi video kampanye manipulatif' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-015",
+                    "portal": "Tempo",
+                    "judul_artikel": "Berita klarifikasi video pidato palsu",
+                    "tanggal": "18/06/2020",
+                    "keterangan": "Artikel dari Tempo dengan topik 'Berita klarifikasi video pidato palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-016",
+                    "portal": "Liputan6",
+                    "judul_artikel": "Fakta foto lama yang diedit ulang",
+                    "tanggal": "28/07/2020",
+                    "keterangan": "Artikel dari Liputan6 dengan topik 'Fakta foto lama yang diedit ulang' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-017",
+                    "portal": "Tempo",
+                    "judul_artikel": "Berita klarifikasi video pidato palsu",
+                    "tanggal": "15/07/2022",
+                    "keterangan": "Artikel dari Tempo dengan topik 'Berita klarifikasi video pidato palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-018",
+                    "portal": "Detik",
+                    "judul_artikel": "Laporan kasus deepfake artis terkenal",
+                    "tanggal": "20/06/2023",
+                    "keterangan": "Artikel dari Detik dengan topik 'Laporan kasus deepfake artis terkenal' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-019",
+                    "portal": "Merdeka",
+                    "judul_artikel": "Berita hoaks seputar pilkada",
+                    "tanggal": "11/03/2020",
+                    "keterangan": "Artikel dari Merdeka dengan topik 'Berita hoaks seputar pilkada' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-020",
+                    "portal": "Republika",
+                    "judul_artikel": "Klarifikasi video ceramah ustadz",
+                    "tanggal": "25/09/2023",
+                    "keterangan": "Artikel dari Republika dengan topik 'Klarifikasi video ceramah ustadz' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-021",
+                    "portal": "BBC Indonesia",
+                    "judul_artikel": "Analisis hoaks internasional masuk ke Indonesia",
+                    "tanggal": "8/03/2023",
+                    "keterangan": "Artikel dari BBC Indonesia dengan topik 'Analisis hoaks internasional masuk ke Indonesia' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-022",
+                    "portal": "Antara",
+                    "judul_artikel": "Rilis resmi pemerintah tentang video palsu",
+                    "tanggal": "7/05/2020",
+                    "keterangan": "Artikel dari Antara dengan topik 'Rilis resmi pemerintah tentang video palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-023",
+                    "portal": "Tempo",
+                    "judul_artikel": "Berita klarifikasi video pidato palsu",
+                    "tanggal": "26/07/2021",
+                    "keterangan": "Artikel dari Tempo dengan topik 'Berita klarifikasi video pidato palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-024",
+                    "portal": "Detik",
+                    "judul_artikel": "Laporan kasus deepfake artis terkenal",
+                    "tanggal": "23/04/2020",
+                    "keterangan": "Artikel dari Detik dengan topik 'Laporan kasus deepfake artis terkenal' digunakan untuk melacak sumber asli sebuah hoaks."
+                },
+                {
+                    "id_data": "PBT-025",
+                    "portal": "Antara",
+                    "judul_artikel": "Rilis resmi pemerintah tentang video palsu",
+                    "tanggal": "24/07/2021",
+                    "keterangan": "Artikel dari Antara dengan topik 'Rilis resmi pemerintah tentang video palsu' digunakan untuk melacak sumber asli sebuah hoaks."
+                }
+            ],
+            "Lembaga Pengecek Fakta": [
+                {
+                    "id_data": "LPF-001",
+                    "lembaga": "Anti Hoax Jawa Pos",
+                    "judul_laporan": "Laporan hoaks nomor 1 dari Anti Hoax Jawa Pos",
+                    "tanggal": "1/05/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Anti Hoax Jawa Pos."
+                },
+                {
+                    "id_data": "LPF-002",
+                    "lembaga": "Hoax Buster Antara",
+                    "judul_laporan": "Laporan hoaks nomor 2 dari Hoax Buster Antara",
+                    "tanggal": "6/05/2021",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Hoax Buster Antara."
+                },
+                {
+                    "id_data": "LPF-003",
+                    "lembaga": "TurnBackHoax MAFINDO",
+                    "judul_laporan": "Laporan hoaks nomor 3 dari TurnBackHoax MAFINDO",
+                    "tanggal": "23/08/2021",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari TurnBackHoax MAFINDO."
+                },
+                {
+                    "id_data": "LPF-004",
+                    "lembaga": "Cek Fakta Merdeka",
+                    "judul_laporan": "Laporan hoaks nomor 4 dari Cek Fakta Merdeka",
+                    "tanggal": "1/05/2021",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Merdeka."
+                },
+                {
+                    "id_data": "LPF-005",
+                    "lembaga": "Cek Fakta Liputan6",
+                    "judul_laporan": "Laporan hoaks nomor 5 dari Cek Fakta Liputan6",
+                    "tanggal": "22/03/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Liputan6."
+                },
+                {
+                    "id_data": "LPF-006",
+                    "lembaga": "Hoax Buster CNN",
+                    "judul_laporan": "Laporan hoaks nomor 6 dari Hoax Buster CNN",
+                    "tanggal": "14/08/2023",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Hoax Buster CNN."
+                },
+                {
+                    "id_data": "LPF-007",
+                    "lembaga": "Kominfo Hoax Buster",
+                    "judul_laporan": "Laporan hoaks nomor 7 dari Kominfo Hoax Buster",
+                    "tanggal": "15/02/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Kominfo Hoax Buster."
+                },
+                {
+                    "id_data": "LPF-008",
+                    "lembaga": "Cek Fakta Detik",
+                    "judul_laporan": "Laporan hoaks nomor 8 dari Cek Fakta Detik",
+                    "tanggal": "10/09/2021",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Detik."
+                },
+                {
+                    "id_data": "LPF-009",
+                    "lembaga": "Hoax Buster CNN",
+                    "judul_laporan": "Laporan hoaks nomor 9 dari Hoax Buster CNN",
+                    "tanggal": "28/03/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Hoax Buster CNN."
+                },
+                {
+                    "id_data": "LPF-010",
+                    "lembaga": "Kominfo Hoax Buster",
+                    "judul_laporan": "Laporan hoaks nomor 10 dari Kominfo Hoax Buster",
+                    "tanggal": "12/02/2020",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Kominfo Hoax Buster."
+                },
+                {
+                    "id_data": "LPF-011",
+                    "lembaga": "Cek Fakta Kompas",
+                    "judul_laporan": "Laporan hoaks nomor 11 dari Cek Fakta Kompas",
+                    "tanggal": "26/06/2023",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Kompas."
+                },
+                {
+                    "id_data": "LPF-012",
+                    "lembaga": "Hoax Buster CNN",
+                    "judul_laporan": "Laporan hoaks nomor 12 dari Hoax Buster CNN",
+                    "tanggal": "17/01/2020",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Hoax Buster CNN."
+                },
+                {
+                    "id_data": "LPF-013",
+                    "lembaga": "Cek Fakta Merdeka",
+                    "judul_laporan": "Laporan hoaks nomor 13 dari Cek Fakta Merdeka",
+                    "tanggal": "7/01/2023",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Merdeka."
+                },
+                {
+                    "id_data": "LPF-014",
+                    "lembaga": "Anti Hoax Jawa Pos",
+                    "judul_laporan": "Laporan hoaks nomor 14 dari Anti Hoax Jawa Pos",
+                    "tanggal": "23/06/2020",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Anti Hoax Jawa Pos."
+                },
+                {
+                    "id_data": "LPF-015",
+                    "lembaga": "Cek Fakta Merdeka",
+                    "judul_laporan": "Laporan hoaks nomor 15 dari Cek Fakta Merdeka",
+                    "tanggal": "22/05/2021",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Merdeka."
+                },
+                {
+                    "id_data": "LPF-016",
+                    "lembaga": "Cek Fakta Detik",
+                    "judul_laporan": "Laporan hoaks nomor 16 dari Cek Fakta Detik",
+                    "tanggal": "23/06/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Detik."
+                },
+                {
+                    "id_data": "LPF-017",
+                    "lembaga": "Cek Fakta Liputan6",
+                    "judul_laporan": "Laporan hoaks nomor 17 dari Cek Fakta Liputan6",
+                    "tanggal": "23/08/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Liputan6."
+                },
+                {
+                    "id_data": "LPF-018",
+                    "lembaga": "Cek Fakta Merdeka",
+                    "judul_laporan": "Laporan hoaks nomor 18 dari Cek Fakta Merdeka",
+                    "tanggal": "6/01/2020",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Merdeka."
+                },
+                {
+                    "id_data": "LPF-019",
+                    "lembaga": "Hoax Buster CNN",
+                    "judul_laporan": "Laporan hoaks nomor 19 dari Hoax Buster CNN",
+                    "tanggal": "17/03/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Hoax Buster CNN."
+                },
+                {
+                    "id_data": "LPF-020",
+                    "lembaga": "Cek Fakta Detik",
+                    "judul_laporan": "Laporan hoaks nomor 20 dari Cek Fakta Detik",
+                    "tanggal": "7/06/2020",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Detik."
+                },
+                {
+                    "id_data": "LPF-021",
+                    "lembaga": "TurnBackHoax MAFINDO",
+                    "judul_laporan": "Laporan hoaks nomor 21 dari TurnBackHoax MAFINDO",
+                    "tanggal": "28/06/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari TurnBackHoax MAFINDO."
+                },
+                {
+                    "id_data": "LPF-022",
+                    "lembaga": "Anti Hoax Jawa Pos",
+                    "judul_laporan": "Laporan hoaks nomor 22 dari Anti Hoax Jawa Pos",
+                    "tanggal": "13/03/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Anti Hoax Jawa Pos."
+                },
+                {
+                    "id_data": "LPF-023",
+                    "lembaga": "Hoax Buster CNN",
+                    "judul_laporan": "Laporan hoaks nomor 23 dari Hoax Buster CNN",
+                    "tanggal": "17/07/2021",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Hoax Buster CNN."
+                },
+                {
+                    "id_data": "LPF-024",
+                    "lembaga": "Kominfo Hoax Buster",
+                    "judul_laporan": "Laporan hoaks nomor 24 dari Kominfo Hoax Buster",
+                    "tanggal": "23/08/2020",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Kominfo Hoax Buster."
+                },
+                {
+                    "id_data": "LPF-025",
+                    "lembaga": "Cek Fakta Merdeka",
+                    "judul_laporan": "Laporan hoaks nomor 25 dari Cek Fakta Merdeka",
+                    "tanggal": "17/06/2022",
+                    "keterangan": "Laporan ini berisi analisis mengenai hoaks yang tersebar luas dan klarifikasi resmi dari Cek Fakta Merdeka."
+                }
+            ],
+            "Data Sintetis": [
+                {
+                    "id_data": "DSYN-001",
+                    "pewawancara": "Andi",
+                    "lokasi": "Candi Borobudur",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil wawancara di Candi Borobudur oleh Andi, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-002",
+                    "pewawancara": "Dedi",
+                    "lokasi": "Universitas Gadjah Mada Yogyakarta",
+                    "aktivitas": "wawancara masyarakat",
+                    "keterangan": "Hasil wawancara di Universitas Gadjah Mada Yogyakarta oleh Dedi, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-003",
+                    "pewawancara": "Indah",
+                    "lokasi": "Candi Borobudur",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil wawancara di Candi Borobudur oleh Indah, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-004",
+                    "pewawancara": "Citra",
+                    "lokasi": "Monas Jakarta",
+                    "aktivitas": "wawancara masyarakat",
+                    "keterangan": "Hasil wawancara di Monas Jakarta oleh Citra, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-005",
+                    "pewawancara": "Joko",
+                    "lokasi": "Monas Jakarta",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil observasi di Monas Jakarta oleh Joko, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-006",
+                    "pewawancara": "Fajar",
+                    "lokasi": "Bandara Juanda Surabaya",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil wawancara di Bandara Juanda Surabaya oleh Fajar, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-007",
+                    "pewawancara": "Citra",
+                    "lokasi": "Gunung Bromo",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil wawancara di Gunung Bromo oleh Citra, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-008",
+                    "pewawancara": "Hari",
+                    "lokasi": "Universitas Gadjah Mada Yogyakarta",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil simulasi di Universitas Gadjah Mada Yogyakarta oleh Hari, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-009",
+                    "pewawancara": "Fajar",
+                    "lokasi": "Alun-alun Kidul Yogyakarta",
+                    "aktivitas": "simulasi foto",
+                    "keterangan": "Hasil observasi di Alun-alun Kidul Yogyakarta oleh Fajar, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-010",
+                    "pewawancara": "Andi",
+                    "lokasi": "Universitas Gadjah Mada Yogyakarta",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil wawancara di Universitas Gadjah Mada Yogyakarta oleh Andi, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-011",
+                    "pewawancara": "Joko",
+                    "lokasi": "Kampung Nelayan Belawan",
+                    "aktivitas": "simulasi foto",
+                    "keterangan": "Hasil wawancara di Kampung Nelayan Belawan oleh Joko, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-012",
+                    "pewawancara": "Dedi",
+                    "lokasi": "Candi Borobudur",
+                    "aktivitas": "wawancara masyarakat",
+                    "keterangan": "Hasil wawancara di Candi Borobudur oleh Dedi, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-013",
+                    "pewawancara": "Eka",
+                    "lokasi": "Pasar Gede, Solo",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil simulasi di Pasar Gede, Solo oleh Eka, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-014",
+                    "pewawancara": "Indah",
+                    "lokasi": "Pantai Kuta Bali",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil wawancara di Pantai Kuta Bali oleh Indah, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-015",
+                    "pewawancara": "Eka",
+                    "lokasi": "Pelabuhan Tanjung Priok",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil simulasi di Pelabuhan Tanjung Priok oleh Eka, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-016",
+                    "pewawancara": "Indah",
+                    "lokasi": "Bandara Juanda Surabaya",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil simulasi di Bandara Juanda Surabaya oleh Indah, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-017",
+                    "pewawancara": "Eka",
+                    "lokasi": "Pelabuhan Tanjung Priok",
+                    "aktivitas": "simulasi foto",
+                    "keterangan": "Hasil simulasi di Pelabuhan Tanjung Priok oleh Eka, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-018",
+                    "pewawancara": "Hari",
+                    "lokasi": "Kampung Nelayan Belawan",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil observasi di Kampung Nelayan Belawan oleh Hari, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-019",
+                    "pewawancara": "Joko",
+                    "lokasi": "Pelabuhan Tanjung Priok",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil simulasi di Pelabuhan Tanjung Priok oleh Joko, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-020",
+                    "pewawancara": "Andi",
+                    "lokasi": "Pantai Kuta Bali",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil wawancara di Pantai Kuta Bali oleh Andi, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-021",
+                    "pewawancara": "Eka",
+                    "lokasi": "Pantai Kuta Bali",
+                    "aktivitas": "simulasi foto",
+                    "keterangan": "Hasil simulasi di Pantai Kuta Bali oleh Eka, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-022",
+                    "pewawancara": "Indah",
+                    "lokasi": "Monas Jakarta",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil observasi di Monas Jakarta oleh Indah, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-023",
+                    "pewawancara": "Andi",
+                    "lokasi": "Candi Borobudur",
+                    "aktivitas": "wawancara masyarakat",
+                    "keterangan": "Hasil wawancara di Candi Borobudur oleh Andi, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-024",
+                    "pewawancara": "Hari",
+                    "lokasi": "Monas Jakarta",
+                    "aktivitas": "pembuatan video uji coba",
+                    "keterangan": "Hasil observasi di Monas Jakarta oleh Hari, memberikan informasi berbeda mengenai persepsi masyarakat."
+                },
+                {
+                    "id_data": "DSYN-025",
+                    "pewawancara": "Hari",
+                    "lokasi": "Alun-alun Kidul Yogyakarta",
+                    "aktivitas": "pengamatan langsung",
+                    "keterangan": "Hasil simulasi di Alun-alun Kidul Yogyakarta oleh Hari, memberikan informasi berbeda mengenai persepsi masyarakat."
+                }
+            ]
+        }
+    }
+}
