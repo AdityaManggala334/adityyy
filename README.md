@@ -1,0 +1,1 @@
+sekarang jadilah ahli programmer dan bantulah aku mengerjakan tugas ku ini, sekarang bantulah aku membuat isi file json ini menjadi kode pemrograman dalam bentuk bahasa pemrograman apapun dan siap digunakan, serta buatkan dalam bentuk file excel juga.
